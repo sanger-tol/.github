@@ -17,4 +17,5 @@ List of Nextflow pipelines we have released
 | [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.1.0	- Deciduous ent	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.1.0) [[Zenodo]](https://zenodo.org/record/7155119)
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.0	- Hefty oliphaunt	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155207)
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.1	- Hefty oliphaunt, cured	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.1) [[Zenodo]](https://zenodo.org/record/7183206)
+| [ensemblrepeatdownload](https://github.com/sanger-tol/ensemblrepeatdownload)	| 1.0.0	- Mighty eagle| [[GitHub]](https://github.com/sanger-tol/ensemblrepeatdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7183380)
 | [sequencecomposition](https://github.com/sanger-tol/sequencecomposition)	| 1.0.0	- Apophis	| [[GitHub]](https://github.com/sanger-tol/sequencecomposition/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155169)
