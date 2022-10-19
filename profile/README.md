@@ -13,7 +13,7 @@ Latest versions of our Nextflow pipelines
 
 | Pipeline name | Version | Links |
 | ------------- | ------- | ----- |
-| [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.1	- Hefty oliphaunt, cured	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.1) [[Zenodo]](https://zenodo.org/record/7183206)
+| [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.1	- Hefty mûmakil	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.1) [[Zenodo]](https://zenodo.org/record/7183206)
 | [ensemblrepeatdownload](https://github.com/sanger-tol/ensemblrepeatdownload)	| 1.0.0	- Gwaihir the Windlord| [[GitHub]](https://github.com/sanger-tol/ensemblrepeatdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7183380)
 | [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.1.0	- Deciduous ent	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.1.0) [[Zenodo]](https://zenodo.org/record/7155119)
 | [readmapping](https://github.com/sanger-tol/readmapping) | 1.0.0	- Ukrainian Ironbelly	| [[GitHub]](https://github.com/sanger-tol/readmapping/releases/tag/v1.0.0) [[Zenodo]](https://zenodo.org/record/6563578)
