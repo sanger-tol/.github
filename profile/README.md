@@ -9,7 +9,7 @@ Don't forget to check out our other organisations and repositories:
  - https://github.com/darwintreeoflife: Darwin Tree of Life
  - https://gitlab.com/wtsi-grit: assembly curation
 
-Latest versions of our Nextflow pipelines
+Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zenodo.org/search?page=1&size=20&q=%22sanger-tol%22&type=workflow)):
 
 | Pipeline name | Version | Links |
 | ------------- | ------- | ----- |
