@@ -19,6 +19,16 @@ Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zen
 | [readmapping](https://github.com/sanger-tol/readmapping) | 1.0.0	- Ukrainian Ironbelly	| [[GitHub]](https://github.com/sanger-tol/readmapping/releases/tag/v1.0.0) [[Zenodo]](https://zenodo.org/record/6563578)
 | [sequencecomposition](https://github.com/sanger-tol/sequencecomposition)	| 1.0.0	- Apophis	| [[GitHub]](https://github.com/sanger-tol/sequencecomposition/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155169)
 
+Pipelines that are still in progress:
+
+| Pipeline name | Status  | Dev branch |
+| ------------- | ------- | ------- |
+| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 25% | [dev](https://github.com/sanger-tol/blobtoolkit/tree/dev)
+| [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 25% | [dev](https://github.com/sanger-tol/genomeassembly/tree/dev)
+| [genomenote](https://github.com/sanger-tol/genomenote)	| 75% | [dev](https://github.com/sanger-tol/genomenote/tree/dev)
+| [treeval](https://github.com/sanger-tol/treeval)	| 50% | [dev](https://github.com/sanger-tol/treeval/tree/dev)
+
+
 <details>
  <summary>Previous verions of our Nextflow pipelines</summary>
  
@@ -28,3 +38,4 @@ Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zen
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.0	- Hefty oliphaunt	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155207)
 
 </details>
+
