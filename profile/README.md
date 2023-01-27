@@ -21,12 +21,12 @@ Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zen
 
 Pipelines that are still in progress:
 
-| Pipeline name | Status  | Dev branch |
-| ------------- | ------- | ------- |
-| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 25% | [dev](https://github.com/sanger-tol/blobtoolkit/tree/dev)
-| [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 50% | [dev](https://github.com/sanger-tol/genomeassembly/tree/dev)
-| [genomenote](https://github.com/sanger-tol/genomenote)	| 75% | [dev](https://github.com/sanger-tol/genomenote/tree/dev)
-| [treeval](https://github.com/sanger-tol/treeval)	| 75% | [dev](https://github.com/sanger-tol/treeval/tree/dev)
+| Pipeline name | Status  |
+| ------------- | ------- |
+| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 25% |
+| [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 50% |
+| [genomenote](https://github.com/sanger-tol/genomenote)	| 75% |
+| [treeval](https://github.com/sanger-tol/treeval)	| 75% |
 
 
 <details>
