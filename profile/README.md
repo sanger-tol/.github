@@ -23,7 +23,7 @@ Pipelines that are still in progress:
 
 | Pipeline name | Status  |
 | ------------- | ------- |
-| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 25% |
+| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 50% |
 | [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 50% |
 | [genomenote](https://github.com/sanger-tol/genomenote)	| 75% |
 | [treeval](https://github.com/sanger-tol/treeval)	| 75% |
