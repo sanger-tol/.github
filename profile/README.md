@@ -16,16 +16,17 @@ Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zen
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.1	- Hefty mûmakil	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.1) [[Zenodo]](https://zenodo.org/record/7183206)
 | [ensemblrepeatdownload](https://github.com/sanger-tol/ensemblrepeatdownload)	| 1.0.0	- Gwaihir the Windlord| [[GitHub]](https://github.com/sanger-tol/ensemblrepeatdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7183380)
 | [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.1.0	- Deciduous ent	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.1.0) [[Zenodo]](https://zenodo.org/record/7155119)
-| [readmapping](https://github.com/sanger-tol/readmapping) | 1.0.0	- Ukrainian Ironbelly	| [[GitHub]](https://github.com/sanger-tol/readmapping/releases/tag/v1.0.0) [[Zenodo]](https://zenodo.org/record/6563578)
+| [readmapping](https://github.com/sanger-tol/readmapping) | 1.1.0	- Hebridean Black	| [[GitHub]](https://github.com/sanger-tol/readmapping/releases/tag/v1.1.0) [[Zenodo]](https://zenodo.org/record/7755669)
 | [sequencecomposition](https://github.com/sanger-tol/sequencecomposition)	| 1.0.0	- Apophis	| [[GitHub]](https://github.com/sanger-tol/sequencecomposition/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155169)
+| [variantcalling](https://github.com/sanger-tol/variantcalling)	| 1.0.0	| [[GitHub]](https://github.com/sanger-tol/variantcalling/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7890528)
 
 Pipelines that are still in progress:
 
 | Pipeline name | Status  |
 | ------------- | ------- |
-| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 50% |
-| [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 50% |
-| [genomenote](https://github.com/sanger-tol/genomenote)	| 75% |
+| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 75% |
+| [genomeassembly](https://github.com/sanger-tol/genomeassembly)	| 75% |
+| [genomenote](https://github.com/sanger-tol/genomenote)	| 100% |
 | [treeval](https://github.com/sanger-tol/treeval)	| 75% |
 
 
@@ -34,8 +35,9 @@ Pipelines that are still in progress:
  
 | Pipeline name | Version | Links |
 | ------------- | ------- | ----- |
-| [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.0.0	- Flaming balrog	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/6983933)
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.0	- Hefty oliphaunt	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7155207)
+| [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.0.0	- Flaming balrog	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/6983933)
+| [readmapping](https://github.com/sanger-tol/readmapping) | 1.0.0	- Ukrainian Ironbelly	| [[GitHub]](https://github.com/sanger-tol/readmapping/releases/tag/v1.0.0) [[Zenodo]](https://zenodo.org/record/6563578)
 
 </details>
 
