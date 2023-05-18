@@ -13,7 +13,7 @@ Latest versions of our Nextflow pipelines (all Zenodo records [here](https://zen
 
 | Pipeline name | Version | Links |
 | ------------- | ------- | ----- |
-| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 0.1.0	| [[GitHub]](https://github.com/sanger-tol/blobtoolkit/releases/tag/0.1.0) [[Zenodo]](https://zenodo.org/record/7949059)
+| [blobtoolkit](https://github.com/sanger-tol/blobtoolkit)	| 0.1.0	- Vaporeon | [[GitHub]](https://github.com/sanger-tol/blobtoolkit/releases/tag/0.1.0) [[Zenodo]](https://zenodo.org/record/7949059)
 | [ensemblgenedownload](https://github.com/sanger-tol/ensemblgenedownload)	| 1.0.1	- Hefty mûmakil	| [[GitHub]](https://github.com/sanger-tol/ensemblgenedownload/releases/tag/1.0.1) [[Zenodo]](https://zenodo.org/record/7183206)
 | [ensemblrepeatdownload](https://github.com/sanger-tol/ensemblrepeatdownload)	| 1.0.0	- Gwaihir the Windlord| [[GitHub]](https://github.com/sanger-tol/ensemblrepeatdownload/releases/tag/1.0.0) [[Zenodo]](https://zenodo.org/record/7183380)
 | [insdcdownload](https://github.com/sanger-tol/insdcdownload)	| 1.1.0	- Deciduous ent	| [[GitHub]](https://github.com/sanger-tol/insdcdownload/releases/tag/1.1.0) [[Zenodo]](https://zenodo.org/record/7155119)
