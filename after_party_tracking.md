@@ -47,7 +47,7 @@ These labels are used to indicate why an issue is closed early:
 
 External contributors can look for these labels:
 
-- https://github.com/sanger-tol/.github/labels/good%20first%20issue : Good for newcomers
+- https://github.com/sanger-tol/.github/labels/good%20first%20issue : Good for newcomers. Typically used for isolated tasks that don't require too much prior knowledge about the pipeline.
 - https://github.com/sanger-tol/.github/labels/help%20wanted : Open to anyone interested
 
 Finally:
