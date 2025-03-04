@@ -21,9 +21,9 @@ with the addition of:
 
 We follow a simple model with three priority levels:
 
-- High
-- Medium
-- Low
+- High: This item is absolutely needed for Production. Approximately equivalent to a _must_ requirement.
+- Medium: We want to implement this item and we'll move onto it as soon as we've got time. Approximately equivalent to a _should_ requirement.
+- Low: Other items we _could_ implement. We're unlikely to work on it in the short term.
 
 ### Labels
 
@@ -47,8 +47,8 @@ These labels are used to indicate why an issue is closed early:
 
 External contributors can look for these labels:
 
-- https://github.com/sanger-tol/.github/labels/good%20first%20issue : Good for newcomers. Typically used for isolated tasks that don't require too much prior knowledge about the pipeline.
-- https://github.com/sanger-tol/.github/labels/help%20wanted : Open to anyone interested. Typically used for tasks that don't clash with other developments.
+- https://github.com/sanger-tol/.github/labels/good%20first%20issue : Good for newcomers. Used for well-defined, isolated tasks that don't require too much prior knowledge about the pipeline.
+- https://github.com/sanger-tol/.github/labels/help%20wanted : Open to anyone interested. Used for tasks that don't clash with other internal developments, and for tasks that would benefit from community input.
 
 Finally:
 
@@ -61,6 +61,7 @@ Labels should follow the following rules:
 
 1. https://github.com/sanger-tol/.github/labels/bug, https://github.com/sanger-tol/.github/labels/enhancement, https://github.com/sanger-tol/.github/labels/feature, and https://github.com/sanger-tol/.github/labels/maintain are mutually exclusive.
 2. Almost every issue should have one of https://github.com/sanger-tol/.github/labels/bug, https://github.com/sanger-tol/.github/labels/enhancement, https://github.com/sanger-tol/.github/labels/feature, or https://github.com/sanger-tol/.github/labels/maintain.
-3. All issues with https://github.com/sanger-tol/.github/labels/duplicate, https://github.com/sanger-tol/.github/labels/invalid, or https://github.com/sanger-tol/.github/labels/wontfix, should be _Done_.
-4. All issues in _Triage_ should have the https://github.com/sanger-tol/.github/labels/question.
-5. Only _Low_ priority issues should have the https://github.com/sanger-tol/.github/labels/help%20wanted. This is to ensure we don't clash.
+3. All issues with https://github.com/sanger-tol/.github/labels/duplicate, https://github.com/sanger-tol/.github/labels/invalid, or https://github.com/sanger-tol/.github/labels/wontfix label, should be _Done_.
+4. All issues in _Triage_ should have the https://github.com/sanger-tol/.github/labels/question label.
+5. No _High_ priority issues should have the https://github.com/sanger-tol/.github/labels/help%20wanted label. This is to ensure we don't clash.
+6. All issues with the https://github.com/sanger-tol/.github/labels/good%20first%20issue label should have https://github.com/sanger-tol/.github/labels/help%20wanted
