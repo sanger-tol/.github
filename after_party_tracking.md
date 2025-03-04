@@ -64,4 +64,4 @@ Labels should follow the following rules:
 3. All issues with https://github.com/sanger-tol/.github/labels/duplicate, https://github.com/sanger-tol/.github/labels/invalid, or https://github.com/sanger-tol/.github/labels/wontfix label, should be _Done_.
 4. All issues in _Triage_ should have the https://github.com/sanger-tol/.github/labels/question label.
 5. No _High_ priority issues should have the https://github.com/sanger-tol/.github/labels/help%20wanted label. This is to ensure we don't clash.
-6. All issues with the https://github.com/sanger-tol/.github/labels/good%20first%20issue label should have https://github.com/sanger-tol/.github/labels/help%20wanted
+6. All issues with the https://github.com/sanger-tol/.github/labels/good%20first%20issue label should have https://github.com/sanger-tol/.github/labels/help%20wanted too.
