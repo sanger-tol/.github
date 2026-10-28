@@ -10,3 +10,5 @@ We also use these organisations and repositories:
  - https://gitlab.com/wtsi-grit: assembly curation
 
 Visit our main website at https://pipelines.tol.sanger.ac.uk/ to learn more about our mission :astronaut: !
+
+If you're interesting in contributing, take a look at our [contribution guidelines 🤝, incl. an AI policy 🤖](../CONTRIBUTING.md).
